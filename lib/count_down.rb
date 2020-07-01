@@ -1,4 +1,4 @@
 # Write your code here
 
 countdown = 10 
-while 
+while countdown > 0 
